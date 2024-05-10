@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+ <resources>
+    <string name="api_key">dmi-dev-sdk-build-7b29616f0c08ec653263f3979424986b419e738f</string>
+    <string name="sdk_messaging">true</string>
+    <string name="icon_folder">mipmap</string>
+    <string name="icon_name">ic_launcher</string> 
+    <string name="smisdk_user_id">userone</string>
+
+ </resources>
